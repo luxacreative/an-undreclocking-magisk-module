@@ -1,6 +1,6 @@
 {
-  "version": "v3.6",
-  "versionCode": 18,
-  "zipUrl": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/install.zip",
-  "changelog": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/changelog.md"
+  "version": "v1.0",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/luxacreative/an-undreclocking-magisk-module/releases/download/v1.0/underclocking-s21fe-v1.0.zip",
+  "changelog": "https://raw.githubusercontent.com/luxacreative/an-undreclocking-magisk-module/main/CHANGELOG.md"
 }
