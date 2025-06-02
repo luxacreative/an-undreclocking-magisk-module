@@ -1,4 +1,4 @@
-## Disclaimer
+I'm on## Disclaimer
 
 Your warranty is now void.  
 We're not responsible for bricked devices, dead SD cards,  
@@ -11,5 +11,4 @@ you point the finger at us for messing up your device, we will laugh at you.
 ---
 
 THIS MODULE IS MADE WITH CHATGPT'S HELP.  
-THE CODE IS CREATED BY ME AND REVIEWED BY CHATGPT.  
-IF YOU DON'T TRUST SOMETHING MADE WITH CHATGPT'S HELP, DON'T USE IT.
+THE CODE IS CREATED BY ME AND REVIEWED BY CHATGPT.IF YOU DON'T TRUST SOMETHING MADE WITH CHATGPT'S HELP, DON'T USE IT.
