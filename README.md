@@ -6,3 +6,6 @@
 * do some research if you have any concerns about features included in this module  
 * before flashing it! YOU are choosing to make these modifications, and if  
 * you point the finger at us for messing up your device, we will laugh at you.
+
+
+**THIS MODULE IS MADE WITH CHATGPT'S HELP. THE CODE IS CREATED BY ME AND REWIED BY CHATGPT.**
