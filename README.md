@@ -1,12 +1,14 @@
+⚠️⚠️⚠️⚠️⚠️⚠️ I DONT GIVE A F@CK IF YOU BRICK YOUR DEVICE ⚠️⚠️⚠️⚠️⚠️⚠️
+
 I'm on## Disclaimer
 
 Your warranty is now void.  
 We're not responsible for bricked devices, dead SD cards,  
 thermonuclear war, or you getting fired because the alarm app failed.  
 
-Please do some research if you have any concerns about features included in this module  
+⚠️⚠️⚠️Please do some research if you have any concerns about features included in this module  
 before flashing it! YOU are choosing to make these modifications, and if  
-you point the finger at us for messing up your device, we will laugh at you.
+you point the finger at us for messing up your device, we will laugh at you⚠️⚠️⚠️.
 
 ---
 
