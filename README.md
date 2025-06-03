@@ -1,6 +1,6 @@
 ⚠️⚠️⚠️⚠️⚠️⚠️ I DONT GIVE A F@CK IF YOU BRICK YOUR DEVICE ⚠️⚠️⚠️⚠️⚠️⚠️
 
-I'm on## Disclaimer
+IF YOU WANT TO CONTACT ME : luxa_creative ( discord )
 
 Your warranty is now void.  
 We're not responsible for bricked devices, dead SD cards,  
